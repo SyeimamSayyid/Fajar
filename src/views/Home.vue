@@ -1228,7 +1228,7 @@ html {
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 15px;
-  color: #145DD8;
+  color: #ffffff;
 }
 
 .misi-card p {
