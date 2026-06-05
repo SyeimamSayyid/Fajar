@@ -1096,7 +1096,7 @@ html {
 /* Vision & Mission Section */
 .visi-misi {
   position: relative;
-  background-image: url('../assets/visi-misi-bg.jpg');
+  background-image: none;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -1239,7 +1239,7 @@ html {
 /* Program Section */
 .program {
   position: relative;
-  background-image: url('../assets/program-bg.jpg');
+  background-image: none;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
