@@ -3,7 +3,6 @@
     <!-- Navbar -->
     <nav class="navbar" :class="{ 'navbar-scrolled': isScrolled }">
       <div class="logo-container">
-        <img src="../assets/Logo-Suaramu.Webp" alt="Suaramu Project Logo" class="logo-image">
         <div class="logo">Suaramu Project</div>
       </div>
       <div class="menu">
@@ -102,7 +101,7 @@
             </div>
           </div>
           <div class="about-image">
-            <img src="../assets/Suaramu1.Webp" alt="Tentang Program">
+            <img src="../assets/Suaramu1.webp" alt="Tentang Program">
           </div>
         </div>
       </div>
@@ -189,7 +188,6 @@
     <footer class="footer">
       <div class="footer-content">
         <div class="footer-logo">
-          <img src="../assets/Logo-Suaramu.Webp" alt="Logo">
           <span>Suaramu Project</span>
         </div>
         <div class="footer-links">
@@ -251,12 +249,6 @@ const programDetails = ref([
   }
 ])
 
-const galleryImages = ref([
-  { src: '../assets/Sekolah.webp', caption: 'Sosialisasi Anti Perundungan' },
-  { src: '../assets/Suaramu1.Webp', caption: 'Pelatihan Relawan' },
-  { src: '../assets/Fajar1.webp', caption: 'Founder Suaramu Project' },
-  { src: '../assets/Foto.Webp', caption: 'Inspirasi untuk Perubahan' }
-])
 
 const toggleMobileMenu = () => {
   mobileMenuOpen.value = !mobileMenuOpen.value
