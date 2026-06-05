@@ -209,7 +209,7 @@
         <p class="profil-subtitle" v-motion :initial="{ opacity: 0, y: 30 }" :visible-once="{ opacity: 1, y: 0, transition: { delay: 100 } }">Perkenalkan, inovator di balik gerakan "Suaramu Project" - seseorang dengan segudang prestasi dan dedikasi tinggi terhadap kepemimpinan serta pendidikan karakter</p>
 
         <div class="creator-single" v-motion :initial="{ opacity: 0, scale: 0.8, rotateY: -90 }" :visible-once="{ opacity: 1, scale: 1, rotateY: 0, transition: { duration: 800, delay: 200 } }">
-          <div class="creator-image-large"><div class="creator-avatar-large"><img src="../assets/Foto.Webp" alt="Muhammad Fajar Syam Ibrahim" class="avatar-image"></div></div>
+          <div class="creator-image-large"><div class="creator-avatar-large"><img src="../assets/Foto.webp" alt="Muhammad Fajar Syam Ibrahim" class="avatar-image"></div></div>
           <div class="creator-info-large">
             <h3>Muhammad Fajar Syam Ibrahim</h3>
             <p class="creator-role-large">Founder & Inovator Utama | Ketua OSIS</p>
