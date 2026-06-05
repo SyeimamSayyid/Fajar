@@ -9,7 +9,7 @@
     <div class="footer-content">
       <div class="footer-brand">
         <div class="brand-logo">
-          <img src="../assets/Logo-Suaramu.Webp" alt="Suaramu Project Logo" class="footer-logo-img">
+          <img src="../assets/Logo-Suaramu.webp" alt="Suaramu Project Logo" class="footer-logo-img">
           <h2>Suaramu Project</h2>
         </div>
         <p>
